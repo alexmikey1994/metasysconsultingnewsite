@@ -1,3 +1,4 @@
 {
-  "rootDirectory": "src"
+  "framework": "nextjs",
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
